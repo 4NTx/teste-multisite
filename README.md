@@ -1,19 +1,7 @@
-<h1>DEPOIS DE STARTAR RODE O COMANDO ABAIXO ANTES DE QUALQUER OUTRA COISA </h1>
 ```bash
 npm run copiarTemplates
 ```
-    <h1>DEPOIS DE STARTAR RODE O COMANDO ABAIXO ANTES DE QUALQUER OUTRA COISA </h1>
-```bash
-npm run copiarTemplates
-```
-    <h1>DEPOIS DE STARTAR RODE O COMANDO ABAIXO ANTES DE QUALQUER OUTRA COISA </h1>
-```bash
-npm run copiarTemplates
-```
-    <h1>DEPOIS DE STARTAR RODE O COMANDO ABAIXO ANTES DE QUALQUER OUTRA COISA </h1>
-```bash
-npm run copiarTemplates
-```
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
