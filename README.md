@@ -1,3 +1,31 @@
+<h1>RODE O COMANDO ABAIXO EXATAMENTE LOGO APÓS STARTAR O PROJETO</h1>
+
+```bash
+npm run copiarTemplates
+```
+
+```bash
+npm run copiarTemplates
+```
+```bash
+npm run copiarTemplates
+```
+```bash
+npm run copiarTemplates
+```
+```bash
+npm run copiarTemplates
+```
+```bash
+npm run copiarTemplates
+```
+```bash
+npm run copiarTemplates
+```
+
+```bash
+npm run copiarTemplates
+```
 ```bash
 npm run copiarTemplates
 ```
