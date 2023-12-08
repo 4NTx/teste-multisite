@@ -1,0 +1,7 @@
+{
+    "nome": "Teste 02",
+    "html": "<header><h1>Site De Exemplo Teste</h1></header><main><section><h2>Seção 1</h2><p>Esta é a Seção 1 do meu exemplo.</section><section><h2>Seção 2</h2><p>Esta é a Seção 2 do meu exemplo.</p><button id='botaoTeste'>Clique Aqui</button></section></main><footer><p>© 2023 Meu Exemplo. Todos os direitos reservados.</footer>",
+    "css": "body { font-family: Arial, sans-serif; margin: 0; padding: 0; box-sizing: border-box; } header, footer { background-color: #4CAF50; color: white; text-align: center; padding: 1em 0; } main { padding: 1em; } section { margin-bottom: 1em; } button { background-color: #008CBA; color: white; padding: 10px 15px; border: none; cursor: pointer; } button:hover { background-color: #005f73; }",
+    "js": "function alterarCorTexto(){let o=document.querySelectorAll(`p`);o.forEach(o=>{o.style.color=getRandomColor()})}function getRandomColor(){let o=`#`;for(let e=0;e<6;e++)o+=`0123456789ABCDEF`[Math.floor(16*Math.random())];return o}const botaoTeste=document.getElementById(`botaoTeste`);botaoTeste.addEventListener(`click`,alterarCorTexto);",
+    "usuarioId": "2"
+}
