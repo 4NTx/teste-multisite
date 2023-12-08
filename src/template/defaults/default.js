@@ -1,0 +1,1 @@
+document.getElementById('botaoTeste').addEventListener('click', function() { alert('Você clicou no botão!'); });
