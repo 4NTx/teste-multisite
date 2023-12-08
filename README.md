@@ -1,50 +1,8 @@
 <p align="center">
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
-  <h1>DEPOIS DE STARTAR RODE: npm run copiarTemplates    ANTES DE QUALQUER OUTRA COISA </h1>
+  <h1>DEPOIS DE STARTAR RODE: 
+  ```bash 
+  npm run copiarTemplates
+  ``` ANTES DE QUALQUER OUTRA COISA </h1>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
